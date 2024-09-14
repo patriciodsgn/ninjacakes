@@ -1,0 +1,29 @@
+*{
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.intro{
+  background: #FFB8D2;
+  background-image: url("../images/principal.png");
+  background-position: center center;
+}
+
+
+footer{
+  background: #FFB8D2;
+}
+
+
+
+.btn-cta{
+  font-weight: bold;
+  color: #E4D764;
+  background-color: #E31E91;
+}
+
+
+.btn-cta:hover{
+  color: #E4D764;
+  background-color: #af1971;
+}
